@@ -1,0 +1,43 @@
+body{
+    background-color: azure;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card{
+    background-color: aqua;
+    border-radius: 6px;
+    display: inline-block;
+    height: 470px;
+    width: 375px;
+    margin-top: 100px;
+    box-shadow: 0 12px 13px rgba(0, 0, 0, .16),0 12px 13px rgba(0, 0, 0, .16);
+}
+
+.img{
+    border-radius: 100%;
+    margin-top: 60px;
+    width: 132px;
+    height: 128px;
+}
+
+.name{
+    color: rgb(193, 18, 18);
+}
+.title{
+    color: rgb(49, 23, 200);
+}
+
+.desc{
+    font-size: 14px;
+    margin-left: 65px;
+    margin-right: 65px;
+    color: blueviolet;
+    margin-top: 5px;
+
+}
+.email{
+    color: rgb(118, 22, 22);
+}
+.Phone{
+    color: brown;
+}
